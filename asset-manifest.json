@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nagendra-bypina.github.io/csb-s5kyg/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/runtime-main.aff12021.js",
+    "runtime-main.js.map": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/runtime-main.aff12021.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://nagendra-bypina.github.io/csb-s5kyg/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nagendra-bypina.github.io/csb-s5kyg/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://nagendra-bypina.github.io/csb-s5kyg/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff12021.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
